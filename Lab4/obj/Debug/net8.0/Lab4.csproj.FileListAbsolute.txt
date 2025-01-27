@@ -1,0 +1,15 @@
+/Users/gleb/Desktop/лаб1/src/Lab4/bin/Debug/net8.0/Lab4.deps.json
+/Users/gleb/Desktop/лаб1/src/Lab4/bin/Debug/net8.0/Lab4.dll
+/Users/gleb/Desktop/лаб1/src/Lab4/bin/Debug/net8.0/Lab4.pdb
+/Users/gleb/Desktop/лаб1/src/Lab4/bin/Debug/net8.0/Lab4.xml
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.csproj.AssemblyReference.cache
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfoInputs.cache
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.AssemblyInfo.cs
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.csproj.CoreCompileInputs.cache
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.sourcelink.json
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.dll
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/refint/Lab4.dll
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.xml
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/Lab4.pdb
+/Users/gleb/Desktop/лаб1/src/Lab4/obj/Debug/net8.0/ref/Lab4.dll
