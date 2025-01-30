@@ -1,5 +1,6 @@
 # FileSystemOOPRealisation
-
+# Цель программы
+Создать собственную файловую систему, используя принципы и паттерны ООП
 # Демонстрация работы программы
 ![Image alt](https://github.com/gleb421/FileSystemOOPRealisation/blob/main/images/Снимок%20экрана%202025-01-27%20в%2020.02.25.png)
 ![Image alt](https://github.com/gleb421/FileSystemOOPRealisation/blob/main/images/Снимок%20экрана%202025-01-27%20в%2019.44.48.png)
